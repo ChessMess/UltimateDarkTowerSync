@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This project has moved.** `UltimateDarkTowerSync` is now part of the
+> [UltimateDarkTower monorepo](https://github.com/ChessMess/UltimateDarkTower) at `apps/sync`.
+> Development continues there; this repository is **archived / read-only**.
+> Full git history was preserved (tags prefixed `sync-*`).
+>
+> Live demo: https://chessmess.github.io/UltimateDarkTower/sync/
+
 # DarkTowerSync
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
